@@ -9,6 +9,11 @@ in youtube [here](https://youtu.be/FNeGnYC6ZN0)
 - Terraform
 - AWS SSM Agent
 
+### Before Running
+
+Update `locals.tf` to adjust based on the resources you have. Either that, or you can create your own VPC, Public Subnet, and Route Tables
+
+
 ### Running
 
 ```shell
